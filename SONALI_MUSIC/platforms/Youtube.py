@@ -20,7 +20,7 @@ from SONALI_MUSIC.utils.database import is_on_off
 from SONALI_MUSIC.utils.formatters import time_to_seconds
 
 YTPROXY = "https://tgapi.xbitcode.com"
-YT_API_KEY = "xbit_O1PlbyuGjX0_UQ8FtUlTKETw9HLkQVuN"
+YT_API_KEY = "xbit_08n9Qhhx9AoasnIu6bV_1QNcI6pVNqWt"
 
 logger = LOGGER(__name__)
 
